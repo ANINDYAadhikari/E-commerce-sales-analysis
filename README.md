@@ -132,7 +132,6 @@ It represents a retail superstore’s historical sales performance across multip
 
 
 ## 📂 Project Structure
-
 ecommerce-sales-analysis/
 │
 ├── Code/
