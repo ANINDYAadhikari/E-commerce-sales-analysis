@@ -13,7 +13,7 @@ import seaborn as sns
 plt.style.use('seaborn-v0_8')
 
 # Load Dataset
-df = pd.read_csv("data/superstore.csv", encoding='latin-1')
+df = pd.read_csv("data/superstore.csv")
 print("Dataset Loaded Successfully!\n")
 
 
