@@ -31,7 +31,7 @@ print(df.describe())
 
 # SECTION 1 -- Basic EDA (Understanding the Business)
 # Q1
-print("How many Unique customers(Segemnt) ? ")
+print("How many Unique customers(Segemnt)? ")
 print(df['Segment'].nunique())
 print("How many Unique cities ? ")
 print(df['City'].nunique())
