@@ -2,7 +2,6 @@
 **Author:** Anindya Adhikari
 
 ---
-
 ## 📊 Project Overview
 
 Retail businesses operate in highly competitive markets where understanding sales performance, profitability drivers, customer behavior, and regional differences is critical for strategic decision-making.
